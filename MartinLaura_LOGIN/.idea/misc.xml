@@ -8,11 +8,19 @@
         <entry key="app/src/main/res/drawable/custom_input.xml" value="0.10520833333333333" />
         <entry key="app/src/main/res/drawable/custom_lock_icon.xml" value="0.10520833333333333" />
         <entry key="app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.18425925925925926" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/drawable/ic_lock.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_lock_focised.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_lock_focused.xml" value="0.10520833333333333" />
         <entry key="app/src/main/res/drawable/mailfocus.xml" value="0.10520833333333333" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_form.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2685624012638231" />
+        <entry key="app/src/main/res/layout/fragment_bottom.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_form2.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_lists.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/menu/bottom_navegation.xml" value="0.25" />
       </map>
     </option>
   </component>
